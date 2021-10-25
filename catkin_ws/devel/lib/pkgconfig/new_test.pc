@@ -1,0 +1,8 @@
+prefix=/home/pla/catkin_ws/devel
+
+Name: new_test
+Description: Description of new_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
